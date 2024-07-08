@@ -1,4 +1,4 @@
-author: Jessidhia
+author: Original: Jessidhia - Fork Author: PhilRSmith
 name: DeviceChangeFix
 punchline: Stops controller input from freezing randomly.
 description: >-
@@ -7,7 +7,7 @@ description: >-
 
 
   Original plugin by PGGB, icon from Mutant Standard.
-repo_url: https://github.com/Jessidhia/DeviceChangeFix
+repo_url: https://github.com/PhilRSmith/DeviceChangeFix
 tags:
   - fix
   - gamepad
